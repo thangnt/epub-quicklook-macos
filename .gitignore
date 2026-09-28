@@ -2,5 +2,6 @@
 build/
 DerivedData/
 *.zip
+*.dmg
 *.xcuserstate
 xcuserdata/
